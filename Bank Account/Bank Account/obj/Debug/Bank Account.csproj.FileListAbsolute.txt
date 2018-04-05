@@ -1,0 +1,9 @@
+c:\users\6\documents\visual studio 2015\Projects\Bank Account\Bank Account\bin\Debug\Bank Account.exe.config
+c:\users\6\documents\visual studio 2015\Projects\Bank Account\Bank Account\bin\Debug\Bank Account.exe
+c:\users\6\documents\visual studio 2015\Projects\Bank Account\Bank Account\bin\Debug\Bank Account.pdb
+c:\users\6\documents\visual studio 2015\Projects\Bank Account\Bank Account\obj\Debug\Bank Account.csprojResolveAssemblyReference.cache
+c:\users\6\documents\visual studio 2015\Projects\Bank Account\Bank Account\obj\Debug\Bank_Account.Form1.resources
+c:\users\6\documents\visual studio 2015\Projects\Bank Account\Bank Account\obj\Debug\Bank_Account.Properties.Resources.resources
+c:\users\6\documents\visual studio 2015\Projects\Bank Account\Bank Account\obj\Debug\Bank Account.csproj.GenerateResource.Cache
+c:\users\6\documents\visual studio 2015\Projects\Bank Account\Bank Account\obj\Debug\Bank Account.exe
+c:\users\6\documents\visual studio 2015\Projects\Bank Account\Bank Account\obj\Debug\Bank Account.pdb
